@@ -6,7 +6,6 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 import networkx as nx
 import os # Para verificar si el archivo existe
 import tkinter as tk
-from tkinter import ttk, messagebox
 # ==============================================================================
 # MÓDULO 1: ANÁLISIS DE RED DEL METRO (TEORÍA DE GRAFOS Y MOVILIDAD)
 # ==============================================================================
